@@ -19,3 +19,5 @@ CSS3
 Vanilla JavaScript
 
 Web Speech API
+
+📸 Screenshot
