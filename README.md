@@ -20,4 +20,15 @@ Vanilla JavaScript
 
 Web Speech API
 
-📸 Screenshot
+📸 Screensho
+
+
+Live demo: 
+
+📦 How to Use Clone the repository: 
+
+bash Copy Edit git clone Open index.html in your browser.
+
+Type or paste any text, select a voice, and click Speak!
+
+🌐 Browser Support Works best in modern browsers like Chrome, Edge, and Firefox. (Safari may have limited support.)
