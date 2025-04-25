@@ -25,9 +25,9 @@ Web Speech API
 
 Live demo: 
 
-📦 How to Use Clone the repository: 
+📦 How to Use Clone the repository: https://github.com/Shahil-16/Text-To-Speech-Converter.git
 
-bash Copy Edit git clone Open index.html in your browser.
+bash Copy Edit git clone  https://github.com/Shahil-16/Text-To-Speech-Converter.git Open index.html in your browser.
 
 Type or paste any text, select a voice, and click Speak!
 
