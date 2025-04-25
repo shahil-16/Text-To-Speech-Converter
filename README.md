@@ -20,10 +20,12 @@ Vanilla JavaScript
 
 Web Speech API
 
-📸 Screensho
+📸 Screenshot
+
+![Screenshot (9)](https://github.com/user-attachments/assets/3f60102d-e1be-45c1-a4ab-c7ddf3246fe8)
 
 
-Live demo: 
+Live demo: https://shahil-text-converter.netlify.app/
 
 📦 How to Use Clone the repository: https://github.com/Shahil-16/Text-To-Speech-Converter.git
 
