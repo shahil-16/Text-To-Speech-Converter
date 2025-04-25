@@ -4,13 +4,6 @@ A simple and responsive Text-to-Speech (TTS) web application built using HTML, C
 
 🚀 Features ✅ Convert typed text into speech instantly
 
-✅ Choose from available voices on your system
-
-✅ Adjust speaking rate and pitch
-
-✅ Clean and user-friendly interface
-
-✅ Fully responsive design
 
 🛠 Technologies Used HTML5
 
